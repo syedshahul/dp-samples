@@ -1,8 +1,8 @@
 package com.dp.push.abstractfactory.impl;
 
+import com.dp.push.abstractfactory.model.PushNotification;
 import com.dp.push.abstractfactory.MessageAbstractFactory;
 import com.dp.push.abstractfactory.enumeration.PushType;
-import com.dp.push.abstractfactory.model.PushNotification;
 
 /**
  * @author syedshahul.
